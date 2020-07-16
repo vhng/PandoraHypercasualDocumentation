@@ -16,6 +16,5 @@ necessárias para a implementação e uso do mesmo.
 
    importing
    setupUnityServices
-   setupUnityIAP
    setupPlayServices
    setupAdMob
